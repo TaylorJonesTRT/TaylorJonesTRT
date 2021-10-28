@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Taylor!
 
 I am a full stack software enginner who loves to learn every single day but also
-love to share that gained knowledge with others!
+loves to share that gained knowledge with others!
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
